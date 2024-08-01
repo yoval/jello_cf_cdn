@@ -1,2 +1,1 @@
-# script_configuration_file
-脚本配置文件
+cdn.jello.top
